@@ -19,6 +19,11 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  url_launcher: ^6.1.10
+  flutter_linkify: ^5.0.2
+  http: ^0.13.5
+  hive_flutter: ^1.1.0
+  flutter_slidable: ^1.3.2
 
 dev_dependencies:
   flutter_test:
